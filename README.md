@@ -42,7 +42,7 @@ Hello! My name is **Eduardo Felipe Alves de Sousa**. I'm a software developer ba
 ### 📬 Let's connect!
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/eduardo-felipe-ab4405218)" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardo-felipe-ab4405218" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:eduardofelipes100@gmail.com" target="_blank">
