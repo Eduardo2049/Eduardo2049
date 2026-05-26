@@ -21,12 +21,11 @@ Hello! My name is **Eduardo Felipe Alves de Sousa**. I'm a software developer ba
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40" alt="SASS" title="SASS" style="margin-right: 10px;"/>
 </p>
 
-#### ⚙️ Backend & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" style="margin-right: 10px;"/>
-</p>
+### 🤖 Tech Stack & Tools
+
+| 🚀 Daily Use (Frameworks & Core) | 📚 Currently Learning & Exploring |
+| :--- | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" title="React"/> **React** / **Next.js**<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/> **TypeScript** / **JavaScript**<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" title="TailwindCSS"/> **TailwindCSS** / **SASS**<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30" title="PHP"/> **PHP Application Development** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" title="Python"/> **Python Backend Integration**<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30" title="Bootstrap"/> Advanced UI Architecture Components<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" title="Git"/> Advanced Git Workflows & DevOps |
 
 ---
 
