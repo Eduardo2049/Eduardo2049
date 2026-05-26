@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="238" viewBox="0 0 800 238">
+  <style>
+    text { font-family: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+    @keyframes chip0 { 0%,0% { opacity: 0; transform: translateY(6px) } 2%,92% { opacity: 1; transform: translateY(0) } 97%,100% { opacity: 0 } }
+    @keyframes chip1 { 0%,2% { opacity: 0; transform: translateY(6px) } 4%,92% { opacity: 1; transform: translateY(0) } 97%,100% { opacity: 0 } }
+    @keyframes chip2 { 0%,5% { opacity: 0; transform: translateY(6px) } 7%,92% { opacity: 1; transform: translateY(0) } 97%,100% { opacity: 0 } }
+    @keyframes chip3 { 0%,7% { opacity: 0; transform: translateY(6px) } 9%,92% { opacity: 1; transform: translateY(0) } 97%,100% { opacity: 0 } }
+    @keyframes chip4 { 0%,9% { opacity: 0; transform: translateY(6px) } 11%,92% { opacity: 1; transform: translateY(0) } 97%,100% { opacity: 0 } }
+    @keyframes chip5 { 0%,12% { opacity: 0; transform: translateY(6px) } 14%,92% { opacity: 1; transform: translateY(0) } 97%,100% { opacity: 0 } }
+    @keyframes chip6 { 0%,14% { opacity: 0; transform: translateY(6px) } 16%,92% { opacity: 1; transform: translateY(0) } 97%,100% { opacity: 0 } }
+    @keyframes chip7 { 0%,16% { opacity: 0; transform: translateY(6px) } 18%,92% { opacity: 1; transform: translateY(0) } 97%,100% { opacity: 0 } }
+    @keyframes chip8 { 0%,18% { opacity: 0; transform: translateY(6px) } 20%,92% { opacity: 1; transform: translateY(0) } 97%,100% { opacity: 0 } }
+    @keyframes chip9 { 0%,21% { opacity: 0; transform: translateY(6px) } 23%,92% { opacity: 1; transform: translateY(0) } 97%,100% { opacity: 0 } }
+    @keyframes chip10 { 0%,23% { opacity: 0; transform: translateY(6px) } 25%,92% { opacity: 1; transform: translateY(0) } 97%,100% { opacity: 0 } }
+    @keyframes chip11 { 0%,25% { opacity: 0; transform: translateY(6px) } 27%,92% { opacity: 1; transform: translateY(0) } 97%,100% { opacity: 0 } }
+    @keyframes chip12 { 0%,28% { opacity: 0; transform: translateY(6px) } 30%,92% { opacity: 1; transform: translateY(0) } 97%,100% { opacity: 0 } }
+    @keyframes chip13 { 0%,30% { opacity: 0; transform: translateY(6px) } 32%,92% { opacity: 1; transform: translateY(0) } 97%,100% { opacity: 0 } }
+    .chip0 { animation: chip0 7s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip1 { animation: chip1 7s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip2 { animation: chip2 7s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip3 { animation: chip3 7s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip4 { animation: chip4 7s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip5 { animation: chip5 7s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip6 { animation: chip6 7s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip7 { animation: chip7 7s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip8 { animation: chip8 7s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip9 { animation: chip9 7s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip10 { animation: chip10 7s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip11 { animation: chip11 7s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip12 { animation: chip12 7s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip13 { animation: chip13 7s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+  </style>
+  <rect width="100%" height="100%" fill="#0d0d10" rx="14" ry="14"/>
+
+  <!-- Accent bar -->
+  <rect x="56" y="74" width="56" height="3" rx="1.5" fill="#dc2626"/>
+
+  <!-- Heading -->
+  <text x="56" y="56" fill="#c1c1d7" font-size="30" font-weight="700" letter-spacing="-0.02em">Stack.</text>
+
+  <!-- Sub-line -->
+  <text x="56" y="104" fill="#a5a5b3" font-size="13" font-weight="500" letter-spacing="0.02em">14 tools I reach for daily.</text>
+
+  <!-- Pill rows -->
+  <g class="chip0">
+        <rect x="108" y="134" width="67" height="28" rx="14" fill="#0d0d10" stroke="#a5a5b3" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="141.5" y="148" fill="#c1c1d7" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">REACT</text>
+      </g>
+  <g class="chip1">
+        <rect x="185" y="134" width="83" height="28" rx="14" fill="#0d0d10" stroke="#a5a5b3" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="226.5" y="148" fill="#c1c1d7" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">NEXT.JS</text>
+      </g>
+  <g class="chip2">
+        <rect x="278" y="134" width="106" height="28" rx="14" fill="#0d0d10" stroke="#a5a5b3" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="331" y="148" fill="#c1c1d7" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">TYPESCRIPT</text>
+      </g>
+  <g class="chip3">
+        <rect x="394" y="134" width="106" height="28" rx="14" fill="#0d0d10" stroke="#a5a5b3" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="447" y="148" fill="#c1c1d7" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">JAVASCRIPT</text>
+      </g>
+  <g class="chip4">
+        <rect x="510" y="134" width="114" height="28" rx="14" fill="#0d0d10" stroke="#a5a5b3" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="567" y="148" fill="#c1c1d7" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">TAILWINDCSS</text>
+      </g>
+  <g class="chip5">
+        <rect x="634" y="134" width="59" height="28" rx="14" fill="#0d0d10" stroke="#a5a5b3" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="663.5" y="148" fill="#c1c1d7" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">SASS</text>
+      </g>
+  <g class="chip6">
+        <rect x="70" y="172" width="98" height="28" rx="14" fill="#0d0d10" stroke="#a5a5b3" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="119" y="186" fill="#c1c1d7" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">BOOTSTRAP</text>
+      </g>
+  <g class="chip7">
+        <rect x="178" y="172" width="75" height="28" rx="14" fill="#0d0d10" stroke="#a5a5b3" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="215.5" y="186" fill="#c1c1d7" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">PYTHON</text>
+      </g>
+  <g class="chip8">
+        <rect x="263" y="172" width="51" height="28" rx="14" fill="#0d0d10" stroke="#a5a5b3" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="288.5" y="186" fill="#c1c1d7" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">GIT</text>
+      </g>
+  <g class="chip9">
+        <rect x="324" y="172" width="51" height="28" rx="14" fill="#0d0d10" stroke="#a5a5b3" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="349.5" y="186" fill="#c1c1d7" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">AWS</text>
+      </g>
+  <g class="chip10">
+        <rect x="385" y="172" width="106" height="28" rx="14" fill="#0d0d10" stroke="#a5a5b3" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="438" y="186" fill="#c1c1d7" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">KUBERNETES</text>
+      </g>
+  <g class="chip11">
+        <rect x="501" y="172" width="83" height="28" rx="14" fill="#0d0d10" stroke="#a5a5b3" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="542.5" y="186" fill="#c1c1d7" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">ANGULAR</text>
+      </g>
+  <g class="chip12">
+        <rect x="594" y="172" width="83" height="28" rx="14" fill="#0d0d10" stroke="#a5a5b3" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="635.5" y="186" fill="#c1c1d7" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">PRIMENG</text>
+      </g>
+  <g class="chip13">
+        <rect x="687" y="172" width="44" height="28" rx="14" fill="#0d0d10" stroke="#a5a5b3" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="709" y="186" fill="#c1c1d7" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">C#</text>
+      </g>
+</svg>
