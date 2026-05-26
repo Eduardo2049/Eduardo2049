@@ -29,12 +29,16 @@ Currently, I am actively expanding my software engineering toolkit by diving dee
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo2049&theme=dark" />
+  <img src="./gh-stats.svg" alt="stats" width="100%" />
 </p>
 
 ---
 
 ### 📬 Let's connect!
+
+<p align="center">
+  <img src="./footer.svg" alt="stats" width="100%" />
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
