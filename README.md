@@ -1,14 +1,28 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Eduardo%20Felipe%20⚡&text2=Frontend%20Developer%20%7C%20Back-End%20Student&width=900&height=180" alt="Eduardo Felipe Banner" width="100%" />
+  <img src="./header.svg" alt="Banner" width="100%">
 </p>
 
 # 👋 Hello, World! I'm Eduardo Felipe
 
 **`Frontend Developer & Back-End Explorer`** 📍 Based in Goiânia, Goiás, Brazil
 
+I am a software developer with a proven track record of building, launching, and maintaining **real-world web applications**. My core expertise lies in engineering high-performance, pixel-perfect, and fully responsive user interfaces. 
+
+Currently, I am actively expanding my software engineering toolkit by diving deep into backend architectures, database modeling, and cloud infrastructure to design complete, scalable full-stack systems.
+
+### 🚀 What I Bring To The Table:
+* 🌐 **Frontend Expertise & Real Projects:** Delivering robust web experiences using **React, Angular, Next.js, TypeScript, and JavaScript** in production environments.
+* 🎨 **UI/UX Attention:** Translating complex Figma designs and layouts into clean code using modern styling utilities like **TailwindCSS, Primeng, Bootstrap, and SASS**.
+* ⚙️ **Back-End Development:** Systematically building server-side logic and managing data flow with **C# and Python**.
+* ☁️ **Cloud & DevOps Exploration:** Learning modern infrastructure management, cloud architectures, and containerization with **AWS and Kubernetes**.
+
 ---
 
 ### 🤖 Tech Stack & Tools
+
+<p align="center">
+  <img src="./skills.svg" alt="My Skills" width="100%" />
+</p>
 
 ---
 
