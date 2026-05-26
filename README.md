@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/header.svg" width="100%" alt="Sleek Hero">
-<br/>
+<p>
+  <img src="./header.svg" wisth="100%" alt="header">
+</p>
 
 # 👋 Hello, World! I'm Eduardo Felipe
 
