@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./header.svg" alt="Banner" width="100%">
-</p>
+<img src="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/header.svg" width="100%" alt="Sleek Hero">
+<br/>
 
 # 👋 Hello, World! I'm Eduardo Felipe
 
@@ -20,25 +19,19 @@ Currently, I am actively expanding my software engineering toolkit by diving dee
 
 ### 🤖 Tech Stack & Tools
 
-<p align="center">
-  <img src="./skills.svg" alt="My Skills" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/skills.svg" width="100%" alt="Sleek Stack">
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="./gh-stats.svg" alt="stats" width="100%" />
-</p>
+<img src="https://ryme.md/api/render/sleek-github-stats?u=Eduardo2049&bg=0d0d10&fg=c1c1d7&accent=dc2626&muted=a5a5b3&dur=7" width="100%" alt="Sleek GitHub">
 
 ---
 
 ### 📬 Let's connect!
 
-<p align="center">
-  <img src="./footer.svg" alt="stats" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/footer.svg" width="100%" alt="Sleek Wave">
 
 <p align="left">
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
