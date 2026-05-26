@@ -32,7 +32,7 @@ Hello! My name is **Eduardo Felipe Alves de Sousa**. I'm a software developer ba
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo2049&theme=github_dark" style="margin-right: 10px;" />
+  <img height="180em" src="https://gh-stats.com/api?username=Eduardo2049&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="margin-right: 10px;" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo2049&theme=dark" />
 </p>
 
