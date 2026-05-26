@@ -2,7 +2,7 @@
   <img src="./header.svg" width="100%" alt="header">
 </p>
 
-# 👋 Hello, World! I'm Eduardo Felipe
+# >_ Hello, I'm Eduardo
 
 > **`Frontend Developer & Back-End Explorer`** 📍 Based in Goiânia, Goiás, Brazil
 >
