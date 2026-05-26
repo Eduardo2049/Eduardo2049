@@ -2,7 +2,9 @@
   <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Eduardo%20Felipe%20👾&text2=Full%20Stack%20Developer&width=800&height=180" alt="Eduardo Felipe Banner"" />
 </p> -->
 
-
+<p align="center">
+  <img src="./header.svg" alt="Local Logo" width="100%" />
+</p>
 
 **`Frontend Developer & Back-End Explorer`** 📍 Based in Goiânia, Goiás, Brazil
 
