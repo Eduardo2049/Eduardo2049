@@ -33,7 +33,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ryme.md/api/render/sleek-github-stats?u=Eduardo2049&bg=0d0d10&fg=c1c1d7&accent=dc2626&muted=a5a5b3&dur=7" width="100%" alt="Sleek GitHub">
+  <img src="gh-stats.svg" alt="stats">
 </p>
 
 ---
