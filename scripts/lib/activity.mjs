@@ -120,7 +120,7 @@ export function renderActivity(data, cfg, t, L) {
   const desc = [
     `${data.contributions} contributions in the last 12 months`,
     `${data.commits} commits and ${data.pullRequests} pull requests in ${data.year}`,
-    `current streak ${data.streak.current} days, longest ${data.streak.longest}`,
+    `current streak ${data.streak.current} ${data.streak.current === 1 ? "day" : "days"}, longest ${longest}`,
     `top languages: ${data.languages.map((l) => `${l.name} ${(l.share * 100).toFixed(1)}%`).join(", ")}`,
     `updated ${updated}`,
   ].join("; ");

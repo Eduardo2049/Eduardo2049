@@ -1,8 +1,8 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/header-narrow-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/header-narrow-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-wide-dark.svg">
-  <img src="./assets/header-wide-light.svg" width="100%" alt="Eduardo Felipe, Full Stack Developer based in Goiânia, Brazil">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/header-narrow-dark.svg">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/header-narrow-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/header-wide-dark.svg">
+  <img src="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/header-wide-light.svg" width="100%" alt="Eduardo Felipe, Full Stack Developer based in Goiânia, Brazil">
 </picture>
 
 ### About me
@@ -17,19 +17,19 @@ I'm a full stack developer and Computer Science student at **PUC Goiás**. I bui
 ### Tech stack
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/stack-narrow-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/stack-narrow-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-wide-dark.svg">
-  <img src="./assets/stack-wide-light.svg" width="100%" alt="Tech stack: Angular, React, Next.js, TypeScript, Java, Spring Boot, .NET, Node.js, Python, Git, GitLab CI/CD, LLM integration and AI agents">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/stack-narrow-dark.svg">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/stack-narrow-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/stack-wide-dark.svg">
+  <img src="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/stack-wide-light.svg" width="100%" alt="Tech stack: Angular, React, Next.js, TypeScript, Java, Spring Boot, .NET, Node.js, Python, Git, GitLab CI/CD, LLM integration and AI agents">
 </picture>
 
 ### Activity
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/activity-narrow-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/activity-narrow-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-wide-dark.svg">
-  <img src="./assets/activity-wide-light.svg" width="100%" alt="GitHub activity: contributions, commits, pull requests, streak, contribution calendar and most used languages">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/activity-narrow-dark.svg">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/activity-narrow-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/activity-wide-dark.svg">
+  <img src="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/activity-wide-light.svg" width="100%" alt="GitHub activity: contributions, commits, pull requests, streak, contribution calendar and most used languages">
 </picture>
 
 <sub>Refreshed every day by a GitHub Action that reads the GitHub API.</sub>
