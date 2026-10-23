@@ -1,0 +1,37 @@
+{
+  "login": "Eduardo2049",
+  "name": "Eduardo Felipe",
+  "role": "Full Stack Developer",
+  "location": "Goiânia, Brazil",
+  "site": "eduardof.dev",
+  "tagline": "Web applications end to end: interfaces, APIs and AI.",
+  "now": "Software Developer intern at SEAD",
+  "timezone": "America/Sao_Paulo",
+  "stack": [
+    {
+      "title": "Front end",
+      "items": ["Angular", "React", "Next.js", "TypeScript", "JavaScript", "HTML", "CSS", "Tailwind CSS", "SASS", "PrimeNG", "Design System"]
+    },
+    {
+      "title": "Back end & APIs",
+      "items": ["Java", "Spring Boot", ".NET (C#)", "Node.js", "Express", "Python", "RESTful APIs", "Server-Sent Events"]
+    },
+    {
+      "title": "DevOps & tools",
+      "items": ["Git", "GitLab", "CI/CD", "Vercel", "Browser DevTools"],
+      "learning": ["AWS", "Kubernetes"]
+    },
+    {
+      "title": "Applied AI",
+      "items": ["LLM integration", "OpenRouter", "Streamed responses", "LLM evals", "AI agents"]
+    },
+    {
+      "title": "Process & quality",
+      "items": ["Scrum", "Unit testing", "Figma"]
+    }
+  ],
+  "languages": {
+    "max": 6,
+    "exclude": []
+  }
+}
