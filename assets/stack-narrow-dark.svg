@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="764" viewBox="0 0 480 764" fill="none" role="img" aria-labelledby="t d">
+  <title id="t">Tech stack</title>
+  <desc id="d">Front end: Angular, React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, SASS, PrimeNG, Design System. Back end &amp; APIs: Java, Spring Boot, .NET (C#), Node.js, Express, Python, RESTful APIs, Server-Sent Events. DevOps &amp; tools: Git, GitLab, CI/CD, Vercel, Browser DevTools, AWS (learning), Kubernetes (learning). Applied AI: LLM integration, OpenRouter, Streamed responses, LLM evals, AI agents. Process &amp; quality: Scrum, Unit testing, Figma</desc>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .rise { animation: rise 0.9s cubic-bezier(0.2, 0.8, 0.2, 1) both; }
+    .fade { animation: fade 0.8s ease-out both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px); } }
+    @keyframes fade { from { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+  <rect width="480" height="764" rx="18" fill="#0b0b0e"/>
+  <rect x="0.5" y="0.5" width="479" height="763" rx="17.5" fill="none" stroke="#262630"/>
+  <text class="mono fade" style="animation-delay:0.00s" x="28" y="34" font-size="12" letter-spacing="2" fill="#8e8ea0">FRONT END</text>
+  <g class="rise" style="animation-delay:0.05s">
+      <rect x="28.5" y="48.5" width="86" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="71.5" y="70" font-size="14" text-anchor="middle" fill="#f2f2f6">Angular</text>
+    </g>
+  <g class="rise" style="animation-delay:0.07s">
+      <rect x="123.5" y="48.5" width="69" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="158" y="70" font-size="14" text-anchor="middle" fill="#f2f2f6">React</text>
+    </g>
+  <g class="rise" style="animation-delay:0.09s">
+      <rect x="201.5" y="48.5" width="86" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="244.5" y="70" font-size="14" text-anchor="middle" fill="#f2f2f6">Next.js</text>
+    </g>
+  <g class="rise" style="animation-delay:0.12s">
+      <rect x="296.5" y="48.5" width="112" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="352.5" y="70" font-size="14" text-anchor="middle" fill="#f2f2f6">TypeScript</text>
+    </g>
+  <g class="rise" style="animation-delay:0.14s">
+      <rect x="28.5" y="92.5" width="112" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="84.5" y="114" font-size="14" text-anchor="middle" fill="#f2f2f6">JavaScript</text>
+    </g>
+  <g class="rise" style="animation-delay:0.16s">
+      <rect x="149.5" y="92.5" width="60" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="179.5" y="114" font-size="14" text-anchor="middle" fill="#f2f2f6">HTML</text>
+    </g>
+  <g class="rise" style="animation-delay:0.18s">
+      <rect x="218.5" y="92.5" width="52" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="244.5" y="114" font-size="14" text-anchor="middle" fill="#f2f2f6">CSS</text>
+    </g>
+  <g class="rise" style="animation-delay:0.20s">
+      <rect x="279.5" y="92.5" width="130" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="344.5" y="114" font-size="14" text-anchor="middle" fill="#f2f2f6">Tailwind CSS</text>
+    </g>
+  <g class="rise" style="animation-delay:0.23s">
+      <rect x="28.5" y="136.5" width="60" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="58.5" y="158" font-size="14" text-anchor="middle" fill="#f2f2f6">SASS</text>
+    </g>
+  <g class="rise" style="animation-delay:0.25s">
+      <rect x="97.5" y="136.5" width="86" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="140.5" y="158" font-size="14" text-anchor="middle" fill="#f2f2f6">PrimeNG</text>
+    </g>
+  <g class="rise" style="animation-delay:0.27s">
+      <rect x="192.5" y="136.5" width="138" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="261.5" y="158" font-size="14" text-anchor="middle" fill="#f2f2f6">Design System</text>
+    </g>
+  <rect x="28" y="187" width="424" height="1" fill="#262630"/>
+  <text class="mono fade" style="animation-delay:0.06s" x="28" y="208" font-size="12" letter-spacing="2" fill="#8e8ea0">BACK END &amp; APIS</text>
+  <g class="rise" style="animation-delay:0.29s">
+      <rect x="28.5" y="222.5" width="60" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="58.5" y="244" font-size="14" text-anchor="middle" fill="#f2f2f6">Java</text>
+    </g>
+  <g class="rise" style="animation-delay:0.31s">
+      <rect x="97.5" y="222.5" width="121" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="158" y="244" font-size="14" text-anchor="middle" fill="#f2f2f6">Spring Boot</text>
+    </g>
+  <g class="rise" style="animation-delay:0.34s">
+      <rect x="227.5" y="222.5" width="104" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="279.5" y="244" font-size="14" text-anchor="middle" fill="#f2f2f6">.NET (C#)</text>
+    </g>
+  <g class="rise" style="animation-delay:0.36s">
+      <rect x="340.5" y="222.5" width="86" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="383.5" y="244" font-size="14" text-anchor="middle" fill="#f2f2f6">Node.js</text>
+    </g>
+  <g class="rise" style="animation-delay:0.38s">
+      <rect x="28.5" y="266.5" width="86" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="71.5" y="288" font-size="14" text-anchor="middle" fill="#f2f2f6">Express</text>
+    </g>
+  <g class="rise" style="animation-delay:0.40s">
+      <rect x="123.5" y="266.5" width="78" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="162.5" y="288" font-size="14" text-anchor="middle" fill="#f2f2f6">Python</text>
+    </g>
+  <g class="rise" style="animation-delay:0.42s">
+      <rect x="210.5" y="266.5" width="130" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="275.5" y="288" font-size="14" text-anchor="middle" fill="#f2f2f6">RESTful APIs</text>
+    </g>
+  <g class="rise" style="animation-delay:0.45s">
+      <rect x="28.5" y="310.5" width="182" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="119.5" y="332" font-size="14" text-anchor="middle" fill="#f2f2f6">Server-Sent Events</text>
+    </g>
+  <rect x="28" y="361" width="424" height="1" fill="#262630"/>
+  <text class="mono fade" style="animation-delay:0.12s" x="28" y="382" font-size="12" letter-spacing="2" fill="#8e8ea0">DEVOPS &amp; TOOLS</text>
+  <g class="rise" style="animation-delay:0.47s">
+      <rect x="28.5" y="396.5" width="52" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="54.5" y="418" font-size="14" text-anchor="middle" fill="#f2f2f6">Git</text>
+    </g>
+  <g class="rise" style="animation-delay:0.49s">
+      <rect x="89.5" y="396.5" width="78" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="128.5" y="418" font-size="14" text-anchor="middle" fill="#f2f2f6">GitLab</text>
+    </g>
+  <g class="rise" style="animation-delay:0.51s">
+      <rect x="176.5" y="396.5" width="69" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="211" y="418" font-size="14" text-anchor="middle" fill="#f2f2f6">CI/CD</text>
+    </g>
+  <g class="rise" style="animation-delay:0.53s">
+      <rect x="254.5" y="396.5" width="78" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="293.5" y="418" font-size="14" text-anchor="middle" fill="#f2f2f6">Vercel</text>
+    </g>
+  <g class="rise" style="animation-delay:0.56s">
+      <rect x="28.5" y="440.5" width="164" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="110.5" y="462" font-size="14" text-anchor="middle" fill="#f2f2f6">Browser DevTools</text>
+    </g>
+  <g class="rise" style="animation-delay:0.58s">
+      <rect x="201.5" y="440.5" width="147" height="33" rx="17" fill="none" stroke="#8e8ea0" stroke-opacity="0.6" stroke-dasharray="4 4"/>
+      <text class="mono" x="275" y="462" font-size="14" text-anchor="middle" fill="#b4b4c3">AWS<tspan fill="#8e8ea0"> · learning</tspan></text>
+    </g>
+  <g class="rise" style="animation-delay:0.60s">
+      <rect x="28.5" y="484.5" width="208" height="33" rx="17" fill="none" stroke="#8e8ea0" stroke-opacity="0.6" stroke-dasharray="4 4"/>
+      <text class="mono" x="132.5" y="506" font-size="14" text-anchor="middle" fill="#b4b4c3">Kubernetes<tspan fill="#8e8ea0"> · learning</tspan></text>
+    </g>
+  <rect x="28" y="535" width="424" height="1" fill="#262630"/>
+  <text class="mono fade" style="animation-delay:0.18s" x="28" y="556" font-size="12" letter-spacing="2" fill="#8e8ea0">APPLIED AI</text>
+  <g class="rise" style="animation-delay:0.62s">
+      <rect x="28.5" y="570.5" width="156" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="106.5" y="592" font-size="14" text-anchor="middle" fill="#f2f2f6">LLM integration</text>
+    </g>
+  <g class="rise" style="animation-delay:0.64s">
+      <rect x="193.5" y="570.5" width="112" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="249.5" y="592" font-size="14" text-anchor="middle" fill="#f2f2f6">OpenRouter</text>
+    </g>
+  <g class="rise" style="animation-delay:0.67s">
+      <rect x="28.5" y="614.5" width="182" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="119.5" y="636" font-size="14" text-anchor="middle" fill="#f2f2f6">Streamed responses</text>
+    </g>
+  <g class="rise" style="animation-delay:0.69s">
+      <rect x="219.5" y="614.5" width="104" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="271.5" y="636" font-size="14" text-anchor="middle" fill="#f2f2f6">LLM evals</text>
+    </g>
+  <g class="rise" style="animation-delay:0.71s">
+      <rect x="332.5" y="614.5" width="104" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="384.5" y="636" font-size="14" text-anchor="middle" fill="#f2f2f6">AI agents</text>
+    </g>
+  <rect x="28" y="665" width="424" height="1" fill="#262630"/>
+  <text class="mono fade" style="animation-delay:0.24s" x="28" y="686" font-size="12" letter-spacing="2" fill="#8e8ea0">PROCESS &amp; QUALITY</text>
+  <g class="rise" style="animation-delay:0.73s">
+      <rect x="28.5" y="700.5" width="69" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="63" y="722" font-size="14" text-anchor="middle" fill="#f2f2f6">Scrum</text>
+    </g>
+  <g class="rise" style="animation-delay:0.75s">
+      <rect x="106.5" y="700.5" width="130" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="171.5" y="722" font-size="14" text-anchor="middle" fill="#f2f2f6">Unit testing</text>
+    </g>
+  <g class="rise" style="animation-delay:0.78s">
+      <rect x="245.5" y="700.5" width="69" height="33" rx="17" fill="#1a1a22" stroke="#262630"/>
+      <text class="mono" x="280" y="722" font-size="14" text-anchor="middle" fill="#f2f2f6">Figma</text>
+    </g>
+</svg>

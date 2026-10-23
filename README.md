@@ -1,54 +1,43 @@
-<p align="center">
-  <img src="./header.svg" width="100%" alt="header">
-</p>
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/header-narrow-dark.svg">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/header-narrow-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/header-wide-dark.svg">
+  <img src="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/header-wide-light.svg" width="100%" alt="Eduardo Felipe, Full Stack Developer based in Goiânia, Brazil">
+</picture>
 
-# >_ Hello, I'm Eduardo
+### About me
 
-> **`Frontend Developer & Back-End Explorer`** 📍 Based in Goiânia, Goiás, Brazil
->
-> I am a software developer with a proven track record of building, launching, and maintaining **real-world web applications**. My core expertise lies in engineering high-performance, pixel-perfect, and fully responsive user interfaces. 
-> 
-> Currently, I am actively expanding my software engineering toolkit by diving deep into backend architectures, database modeling, and cloud infrastructure to design complete, scalable full-stack systems.
+I'm a full stack developer and Computer Science student at **PUC Goiás**. I build web applications end to end: responsive interfaces with **Angular, React and TypeScript**, and RESTful APIs with **Java/Spring Boot, .NET and Node.js**. I also work with AI, integrating language models into products and building AI agents.
 
-### 🚀 What I Bring To The Table:
+- **Now:** Software Developer intern at SEAD (Goiás State Department of Administration) since Dec 2024, building Angular front ends, Design System components and Spring Boot APIs, with GitLab CI/CD in a Scrum team.
+- **Studying:** Computer Science at PUC Goiás, graduating in Jul 2027.
+- **Learning:** AWS and Kubernetes.
+- **Languages:** Portuguese (native), English (advanced), Spanish (intermediate).
 
-> 🌐 **Frontend Expertise & Real Projects:** Delivering robust web experiences using **React, Angular, Next.js, TypeScript, and JavaScript** in production environments.
+### Tech stack
 
-> 🎨 **UI/UX Attention:** Translating complex Figma designs and layouts into clean code using modern styling utilities like **TailwindCSS, Primeng, Bootstrap, and SASS**.
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/stack-narrow-dark.svg">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/stack-narrow-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/stack-wide-dark.svg">
+  <img src="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/stack-wide-light.svg" width="100%" alt="Tech stack: Angular, React, Next.js, TypeScript, Java, Spring Boot, .NET, Node.js, Python, Git, GitLab CI/CD, LLM integration and AI agents">
+</picture>
 
-> ⚙️ **Back-End Development:** Systematically building server-side logic and managing data flow with **C# and Python**.
+### Activity
 
-> ☁️ **Cloud & DevOps Exploration:** Learning modern infrastructure management, cloud architectures, and containerization with **AWS and Kubernetes**.
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/activity-narrow-dark.svg">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/activity-narrow-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/activity-wide-dark.svg">
+  <img src="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/assets/activity-wide-light.svg" width="100%" alt="GitHub activity: contributions, commits, pull requests, streak, contribution calendar and most used languages">
+</picture>
 
----
+<sub>Refreshed every day by a GitHub Action that reads the GitHub API.</sub>
 
-### 🤖 Tech Stack & Tools
+### Let's connect
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/skills.svg" width="100%" alt="Sleek Stack">
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="gh-stats.svg" alt="stats">
-</p>
-
----
-
-### 📬 Let's connect!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Eduardo2049/Eduardo2049/main/footer.svg" width="100%" alt="Sleek Wave">
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/eduardo-felipe-ab4405218/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:eduardofelipes100@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<p>
+  <a href="https://eduardof.dev"><img src="https://img.shields.io/badge/Portfolio-eduardof.dev-ef4444?style=for-the-badge" alt="Portfolio: eduardof.dev"></a>
+  <a href="https://www.linkedin.com/in/eduardo-sousa-go"><img src="https://img.shields.io/badge/LinkedIn-eduardo--sousa--go-0A66C2?style=for-the-badge" alt="LinkedIn: eduardo-sousa-go"></a>
+  <a href="mailto:eduardofelipes100@gmail.com"><img src="https://img.shields.io/badge/Email-eduardofelipes100%40gmail.com-1a1a22?style=for-the-badge" alt="Email: eduardofelipes100@gmail.com"></a>
 </p>
